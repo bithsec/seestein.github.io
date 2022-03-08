@@ -6,5 +6,7 @@
 
 :envelope: fleischerei@seestein.at
 
+:earth_africa: [https://www.facebook.com/Fleischerei-Dorrer-Seestein-285970018585512]
+
 
 ![Seestein Logo](seestein-logo.jpg)
